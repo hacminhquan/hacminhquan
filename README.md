@@ -1,4 +1,4 @@
 **WELCOME TO MY PAGE 👋👋👋**
 
-My name is Hac Minh Quan. I am a Computer Science Student, majoring in AI Engineering, at HCMC University of Technology. 
-My goto topics: AI/ML, Computer Vision, Reinforcement Learning.
+My name is Hac Minh Quan. I am a Computer Science Student, at HCMC University of Technology. 
+My goto topics: AI/ML, Computer Vision, NLP.
